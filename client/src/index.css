@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 50px;
+  font-family: 'Fira Sans', sans-serif;
+  background-color: #333;
+  color: #b1b1b1;
+  text-align: center;
+}
+
+body li {
+  list-style: none;
+}
